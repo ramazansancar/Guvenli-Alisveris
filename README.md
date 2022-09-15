@@ -11,7 +11,7 @@
 | [![araştırılması gerek](assets/magnifying-glass.svg)](##) | Araştırılması Gerek |
 | [![güvenli](assets/check.svg)](##)  | Güvenli | -->
 
-| Sembol | [![değil](assets/xmark.svg)](##) | [![bilinmiyor](assets/minus.svg)](##) | [![bilinmiyor](assets/magnifying-glass.svg)](##) | [![güvenli](assets/check.svg)](##) |
+| Sembol | [![değil](assets/xmark.svg)](##) | [![bilinmiyor](assets/minus.svg)](##) | [![araştırılması gerek](assets/magnifying-glass.svg)](##) | [![güvenli](assets/check.svg)](##) |
 | - | - | - | - | - |
 | **Anlamı** | Güvenli Değil | Bilinmiyor | Araştırılması Gerek | Güvenli |
 
