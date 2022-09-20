@@ -6,7 +6,7 @@
 ## Güvenli satıcıyı nasıl kontrol edebiliriz?
 ---
 - [eticaret.gov.tr](https://www.eticaret.gov.tr/) sitesinde kaydının olması
-- 
+- [guvendamgasi.org.tr](https://guvendamgasi.org.tr/guvendamgasialan.php) sitesinde kaydı olması
 
 
 ## Simge Anlamları
@@ -47,3 +47,4 @@
 - https://www.markdownguide.org/ (Markdown Kılavuzu)
 - https://www.eticaret.gov.tr/sirketsorgula (E-ticaret Şirket Kaydı Sorgulama)
 - https://fontawesome.com/icons (Icons)
+- https://guvendamgasi.org.tr/guvendamgasialan.php (Güven Damgası)
