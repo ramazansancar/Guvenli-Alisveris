@@ -5,8 +5,8 @@
 
 ## Güvenli satıcıyı nasıl kontrol edebiliriz?
 ---
-- [eticaret.gov.tr](https://www.eticaret.gov.tr/) sitesinde kaydının olması
-- [guvendamgasi.org.tr](https://guvendamgasi.org.tr/guvendamgasialan.php) sitesinde kaydı olması
+- [eticaret.gov.tr](https://www.eticaret.gov.tr/) sitesinde kaydının olması **(Kabul edilebilir değildir!. Sahte evrak ile kolay bir şekilde kayıt sağlanabilir.)**
+- [guvendamgasi.org.tr](https://guvendamgasi.org.tr/guvendamgasialan.php) sitesinde kaydı olması **(Kabul edilebilir değildir!. Sahte evrak ile kolay bir şekilde kayıt sağlanabilir.)**
 
 
 ## Simge Anlamları
